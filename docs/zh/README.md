@@ -4,7 +4,7 @@
 
 AWTRIX 3 是一种用于 [Ulanzi 智能像素时钟](https://www.ulanzi.com/products/ulanzi-pixel-smart-clock-2882?ref=28e02dxl) (Ref link) 的自定义固件。它旨在成为你的 HomeAssistant、IOBroker、NodeRed 等智能家居的伴侣。
 
-它可以直接出厂即用，已经预装了时间、日期、温度和湿度应用。除了开机之外，您无需做任何操作就可以开始使用这些功能。
+它可以开箱即用，已经预装了时间、日期、温度和湿度应用。除了开机之外，您无需做任何操作就可以开始使用这些功能。
 当然，对有技术的专业用户来说，也可以通过应用程序提供的自定义选项充分发挥 AWTRIX 3 的潜力。
 
 !> 在 AWTRIX 中，“应用程序（Apps）”这个术语并不指传统的智能手机中您需要下载和安装的应用程序。在 AWTRIX 中，CustomApps 更像是在显示屏的 Apploop 中切换的动态页面。这些页面不存储或执行它们自己的逻辑；它们显示从外部系统（如智能家居）发送过来的内容。这些内容必须通过 MQTT 或 HTTP 协议使用 [CustomApp API](https://blueforcer.github.io/awtrix3/#/api?id=custom-apps-and-notifications) 来传输。
