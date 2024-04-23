@@ -1,6 +1,6 @@
 # AWTRIX 3
 
-?> 此开源软件与 Ulanzi 公司无任何关联或认可。使用该软件请自行承担可能存在的风险和责任。我方不承担因使用该软件可能引起的任何潜在损害或问题的责任。请您明确，使用此开源软件不会从 Ulanzi 公司获得直接支持或保证。
+?> 此开源软件与 Ulanzi 公司无任何关联或许可关系。使用该软件请自行承担可能存在的风险和责任。我方不承担因使用该软件可能引起的任何潜在损害或问题的责任。请您明确，使用此开源软件不会从 Ulanzi 公司获得直接支持或保证。
 
 AWTRIX 3 是一种用于 [Ulanzi 智能像素时钟](https://www.ulanzi.com/products/ulanzi-pixel-smart-clock-2882?ref=28e02dxl) (Ref link) 的自定义固件。它旨在成为你的 HomeAssistant、IOBroker、NodeRed 等智能家居的伴侣。
 
